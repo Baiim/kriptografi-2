@@ -15,7 +15,7 @@ Plainteks :
 Chiperteks :
 
 
-![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044402.png)
+![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044346.png)
 
 
 Plainteks setelah didekrip :
